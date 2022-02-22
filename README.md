@@ -26,5 +26,8 @@ I'm very much inquisitive and passionate about statistical and visual informatio
   <a href="https://www.linkedin.com/in/rafi-ahmed-680b6980/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" width="30" height="30" alt="linkedin">
   </a> 
-  
+  &nbsp;
+  <a href="https://www.youtube.com/channel/UCH1_wuJ6-8J_bNpnN_tf1Dw" rel="nofollow noreferrer">
+    <img src="https://i.insider.com/59a59a8d79bbfd1d008b601a?width=1200&format=jpeg" width="50" height="30" alt="YouTube">
+  </a> 
 </p>
