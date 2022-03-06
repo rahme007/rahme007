@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Rafi, a Ph.D. candidate at FIU with a major in electrical engineering. 
+I'm Rafi, a graduating Ph.D. candidate at FIU with a major in electrical engineering. 
 
 I'm very much inquisitive and passionate about statistical and visual information processing. That is why I love to apply image processing techniques and machine learning methods to the field of computer vision. Also, I like to explore data structure algorithms to solve fundamental problems in feature extraction. 
 
