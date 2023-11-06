@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I'm Rafi, a Ph.D. graduate from FIU with a major in electrical and computer engineering. 
 
-I'm very much inquisitive and passionate about statistical and visual information processing. That is why I love to apply image processing techniques and machine learning methods to the field of computer vision. Also, I like to explore data structure algorithms to solve fundamental problems in feature extraction. 
+I'm very much inquisitive and passionate about statistical and sensor signal processing. That is why I love to apply image processing techniques and machine learning methods to the field of sensor(Radar,Lidar) system. Also, I like to explore algorithms to solve fundamental problems in feature extraction. My current work revolves around algorithm development for automotive and airborne radar systems.
 
 ⚡ Fun fact #1: I like to listen to songs of different genres :musical_note:; R&B, hip-hop, and country songs are my favorites. My favorite singer is Akon :man_singer:. <br>
 ⚡ Fun fact #2: I love to travel a lot :mountain: :camping: :beach_umbrella:. So far, my favorite place to travel is the great smoky mountain national park :national_park: in Tennessee, USA
