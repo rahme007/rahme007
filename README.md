@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**rahme007/rahme007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rahme007/rahme007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 Here are some ideas to get you started:
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Rafi, a Ph.D. graduate from FIU with a major in electrical and computer engineering. 
+I'm Rafi, a Ph.D. graduate from FIU with a major in electrical and computer engineering. Currently, I am actively looking for jobs related to signal processing, RF, sensor systems, and AI. If you would like to talk, ping me on LinkedIn.
 
 I'm very much inquisitive and passionate about statistical and sensor signal processing. That is why I love to apply image processing techniques and machine learning methods to the field of sensor(Radar,Lidar) system. Also, I like to explore algorithms to solve fundamental problems in feature extraction. My current work revolves around algorithm development for automotive and airborne radar systems.
 
