@@ -24,7 +24,7 @@ I'm very much inquisitive and passionate about statistical and sensor signal pro
     To stay <em>connected</em>: 
   <br><br>
   <a href="https://www.linkedin.com/in/rafi-ahmed-ph-d-680b6980/" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" width="30" height="30" alt="linkedin">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30" height="30" alt="linkedin">
   </a> 
   &nbsp;
   <a href="https://www.youtube.com/channel/UCH1_wuJ6-8J_bNpnN_tf1Dw" rel="nofollow noreferrer">
